@@ -11,6 +11,7 @@ Documentation was written in Italian language and I haven't time to translate it
 ### usage example
 Exec this commands to run the desktop application:
 ```bash
+cd .\src\
 qmake -project
 make
 ```
