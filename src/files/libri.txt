@@ -1,0 +1,19 @@
+0 "Pulvis et umbra" "Antonio Manzini" "Sellerio editore Palermo" romanzo 2017 1
+10 "Programmazione ad oggetti" "Francesco Ranzato" "Libreria Progetto" scientifico 2013 1 2
+0 "Performer Heritage" "Marina Spiazzi" "Zanichelli" lingue 2016 1
+10 "Principles of Compiler Design" "Addison-Wesley" "Addison-Wesley" scientifico 1977 1 4
+0 "Non ho paura del buio" "Robert Dugoni" "Amazon  pubblishing" horror 2015 2
+10 "Harry Potter, la serie" "J.K.Rowling" "Pottermore" fantascienza 2015 2 1
+0 "L'ultima perla" "Leah Fleming" "Newton Compton Editori" romanzo 2017 1
+0 "La vita in due" "Nicholas Sparks" "Sperling" romanzo 2015 0
+0 "Le otto montagne" "Paolo Cognetti" "Enaudi" romanzo 2016 1
+10 "Liquid Intelligence" "Daye Arnold" "Readrink" scintifico 2015 1 2
+0 "Dieci piccoli infami" "Selvaggia Lucarelli" "Rizzoli" Comico 2012 2
+10 "La rete di protezione" "Andrea Camilleri" "Sellerio" romanzo 2015 1 1
+0 "Il Caso Fitzgerald" "John Grisham" "Mondadori" azione 2014 1
+0 "Tredici" "Jay Asher" "Mondadori" drammatico 2012 1
+10 "La forza del silenzio" "Robert Sarah" "Cantagalli" romanzo 2010 1 3
+0 "Avanti" "Matteo Renzi" "Feltrinelli" comico 2011 0
+0 "L'ira di traiana" "Santiago Posteguillo" "Piemme" storico 2005 1
+10 "Calcolo Numerico" "Redivivo Zaglia" "Libreria Progetto" scientifico 2013 1 3
+10 "a" "a" "a" a 1223 0 1
