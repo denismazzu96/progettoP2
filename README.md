@@ -1,5 +1,5 @@
 # progettoP2
-Academic project for "Programmazione ad oggetti" course.
+Academic project for "Programmazione ad oggetti" university course, evaluated 30/30.
 ## Description
 I've develop (one years ago) a simple library system in c++ using Qt5 as GUI library, i haven't use VCM or whatelse, just code and nothing else.
 Documentation was written in Italian language and I haven't time to translate it, could be a future task.
