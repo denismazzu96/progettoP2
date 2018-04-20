@@ -1,7 +1,7 @@
 # progettoP2
 Academic project for "Programmazione ad oggetti" university course, evaluated 30/30.
 ## Description
-I've develop (one years ago) a simple library system in c++ using Qt5 as GUI library, i haven't use VCM or whatelse, just code and nothing else.
+I've develop (06/2017) a simple library system in c++ using Qt5 as GUI library, i haven't use VCM or whatelse, just code and nothing else.
 Documentation was written in Italian language and I haven't time to translate it, could be a future task.
 ## Getting started
 ### requirements
@@ -15,7 +15,7 @@ cd .\src\
 qmake -project
 make
 ```
-## Doc
+## Doc (relazione.pdf)
 ### Scopo del progetto
 Il progetto in esame consiste nel gestire una biblioteca dove utenti di diversa natura possono accedere (previa registrazione) e visualizzare, piuttosto che restituire o prendere in prestito i libri offerti dalla biblioteca in base al loro tipo di registrazione, inoltre l’applicazione offre possibilità di ricerca dei libri e di modifica dei dati personali. Per gli utenti saranno disponibili due tipi di registrazione, quella base e quella premium, la registrazione premium comporta l’inserimento di una carta di credito per il pagamento del canone e l’inserimento di un grado personalizzato, questo grado, più alto sarà, fino ad un massimo di 5, più libri si potranno visualizzare dal contenitore, l’amministratore è un’utente avanzato senza canone con grado massimo. Anche i libri si suddividono tra libri base, ovvero a grado minore (0), e libri premium caratterizzati dal grado, i libri visualizzabili, dal contenitore, per un utente x sono solo quelli che hanno il grado(libro) minore o uguale al grado(utente) di x. L’amministratore inoltre ha poteri su tutto l’applicativo potendo aggiungere, modificare o eliminare libri dal sistema e eliminare utenti, oltre ad essere l’unico a poter aggiungere altri amministratori, questa figura nell’ambito della biblioteca può essere vista come bibliotecario.
 ### Gerarchie di tipo per il modello
